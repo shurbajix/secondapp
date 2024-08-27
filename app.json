@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "secondapp",
+    "name": "Aora",
+    "scheme" : "aora",
     "slug": "secondapp",
     "version": "1.0.0",
     "orientation": "portrait",
